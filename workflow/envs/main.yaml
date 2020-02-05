@@ -1,0 +1,7 @@
+channels:
+    - bioconda
+    - conda-forge
+dependencies:
+    - samtools =1.9
+    - minimap2 =2.17
+    - longshot =0.4.0
