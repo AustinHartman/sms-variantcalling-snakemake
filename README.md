@@ -1,3 +1,4 @@
+<pre>
 Usage:  
 -clone repo into empty directory  
 -mkdir data  
@@ -23,3 +24,4 @@ Output file structure:
      |  
      └────variants/  
           └────{sample_name}_variants.vcf  
+</pre>
